@@ -1,3 +1,3 @@
-# Resource.SudoTV.com
+# resource.sudo.tv
 
-Resrouce.SudoTV.com
+resource.sudo.tv
