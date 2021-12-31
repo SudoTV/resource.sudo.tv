@@ -17,6 +17,11 @@ kramdown:
 author:
   name: WMXPY
   email: wm@mengw.io
+collections:
+  installs-en-US:
+    directory: en-US/install
+  installs-zh-CN:
+    directory: zh-CN/install
 plugins:
   - jekyll-github-metadata
 exclude:
