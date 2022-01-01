@@ -1,6 +1,7 @@
+a: 10
 articles:
   node-js:
-    path: install/node-js
+    path: node-js
     localization:
       zh-CN:
         title: 安装 NodeJS
