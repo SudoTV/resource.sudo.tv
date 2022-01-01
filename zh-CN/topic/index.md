@@ -10,15 +10,13 @@ localization: zh-CN
   topics=site.data.topic
 %}
 
-{{ site.data.topic }}
-
 <ul class="article-list-page-ul">
     {% for topic in site.data.topic %}
 
     {% assign topicKey=topic[0] %}
     {% assign topicValue=topic[1] %}
 
-    {{ topicValue.localization }}
+    {% include article/topic-link.html topic=topicValue %}
 
     {% endfor %}
 </ul>

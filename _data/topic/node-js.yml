@@ -3,6 +3,7 @@ localization:
     name: NodeJS
   en-US:
     name: NodeJS
+path: node-js
 articles:
   install:
     path: install
