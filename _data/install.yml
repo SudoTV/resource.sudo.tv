@@ -1,0 +1,8 @@
+articles:
+  node-js:
+    path: install/node-js
+    localization:
+      zh-CN:
+        title: 安装 NodeJS
+      en-US:
+        title: Install NodeJS
