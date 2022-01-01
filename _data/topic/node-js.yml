@@ -1,7 +1,11 @@
-a: 10
+localization:
+  zh-CN:
+    name: NodeJS
+  en-US:
+    name: NodeJS
 articles:
-  node-js:
-    path: node-js
+  install:
+    path: install
     localization:
       zh-CN:
         title: 安装 NodeJS
