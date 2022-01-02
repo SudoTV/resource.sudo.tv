@@ -1,11 +1,15 @@
 ---
-title: Work In Progress
+title: SudoTV Resources
 layout: default
 localization: en-US
 ---
 
 {% include banner/not-ready.html %}
 
-# Work In Progress
+# SudoTV Resources
 
-Coming Soon
+{% include navigation/core-link.html
+    href="topic"
+    title="Topic"
+    description="Browse Topics"
+%}
