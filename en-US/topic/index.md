@@ -1,12 +1,12 @@
 ---
-title: 主题
+title: Topic
 layout: default
-localization: zh-CN
+localization: en-US
 ---
 
 {% include banner/not-ready.html %}
 
-# 主题
+# Topic
 
 {% include article/topic-list.html 
   topics=site.data.topic

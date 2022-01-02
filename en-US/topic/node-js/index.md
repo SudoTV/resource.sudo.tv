@@ -1,12 +1,12 @@
 ---
-title: 有关 Node JS 的主题
+title: Node JS Topic
 layout: default
-localization: zh-CN
+localization: en-US
 ---
 
 {% include banner/not-ready.html %}
 
-# 有关 Node JS 的主题
+# Node JS Topic
 
 {% include article/article-list.html 
   articles=site.data.topic.node-js.articles

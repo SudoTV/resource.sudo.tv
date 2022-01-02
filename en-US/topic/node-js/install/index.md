@@ -1,7 +1,7 @@
 ---
-title: 安装 NodeJS
+title: Install NodeJS
 layout: default
-localization: zh-CN
+localization: en-US
 ---
 
 {% include banner/not-ready.html %}
