@@ -11,3 +11,5 @@ localization: zh-CN
 %}
 
 # 安装 Chocolatey
+
+{% include copyable/copyable-highlight.html language="shell" file="install.ps" %}
