@@ -1,0 +1,16 @@
+localization:
+  zh-CN:
+    name: Chocolatey
+    description: Chocolatey 是一个 Windows 平台的软件包管理器
+  en-US:
+    name: Chocolatey
+    description: Chocolatey is a package manager for Windows
+path: chocolatey
+articles:
+  install:
+    path: install
+    localization:
+      zh-CN:
+        title: 安装 Chocolatey
+      en-US:
+        title: Install Chocolatey
