@@ -1,5 +1,5 @@
 ---
-title: Install NodeJS
+title: Install Node JS
 layout: default
 localization: en-US
 ---

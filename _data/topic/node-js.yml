@@ -11,6 +11,6 @@ articles:
     path: install
     localization:
       zh-CN:
-        title: 安装 NodeJS
+        title: 安装 Node JS
       en-US:
-        title: Install NodeJS
+        title: Install Node JS
