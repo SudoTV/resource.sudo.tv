@@ -9,6 +9,9 @@ path: chocolatey
 articles:
   install:
     path: install
+    references:
+      - url: https://chocolatey.org/install
+        title: Installing Chocolatey
     localization:
       zh-CN:
         title: 安装 Chocolatey
