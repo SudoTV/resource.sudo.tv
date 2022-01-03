@@ -4,8 +4,6 @@ layout: default
 localization: zh-CN
 ---
 
-{% include banner/not-ready.html %}
-
 # SudoTV 资源
 
 {% include navigation/core-link.html
