@@ -1,10 +1,10 @@
 ---
-title: Topic
+title: All Topics
 layout: default
 localization: en-US
 ---
 
-# Topic
+# All Topics
 
 {% include article/topic-list.html 
   topics=site.data.topic

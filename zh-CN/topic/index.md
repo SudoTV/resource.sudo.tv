@@ -1,10 +1,10 @@
 ---
-title: 主题
+title: 全部主题
 layout: default
 localization: zh-CN
 ---
 
-# 主题
+# 全部主题
 
 {% include article/topic-list.html 
   topics=site.data.topic
