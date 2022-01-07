@@ -12,5 +12,7 @@ articles:
     localization:
       zh-CN:
         title: 安装 Node JS
+        description: 安装 Node JS 的方式
       en-US:
         title: Install Node JS
+        description: Procedure to install Node JS

@@ -12,5 +12,7 @@ articles:
     localization:
       zh-CN:
         title: 安装 Makefile
+        description: 安装 Makefile 工具的方式
       en-US:
         title: Install Makefile
+        description: Procedure to install Makefile

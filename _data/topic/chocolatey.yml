@@ -15,5 +15,7 @@ articles:
     localization:
       zh-CN:
         title: 安装 Chocolatey
+        description: 安装 Chocolatey 工具的方式
       en-US:
         title: Install Chocolatey
+        description: Procedure to install Chocolatey
