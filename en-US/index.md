@@ -7,7 +7,13 @@ localization: en-US
 # SudoTV Resources
 
 {% include navigation/core-link.html
+    href="search"
+    title="Search"
+    description="Search Topics and Articles"
+%}
+
+{% include navigation/core-link.html
     href="topic"
-    title="Topic"
-    description="Browse Topics"
+    title="All Topics"
+    description="Browse all Topics"
 %}
