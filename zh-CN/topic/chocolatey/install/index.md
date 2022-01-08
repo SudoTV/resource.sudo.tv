@@ -13,9 +13,8 @@ localization: zh-CN
 1. 首先，确保使用管理员权限的 PowerShell。
 2. 使用 `powershell.exe` 安装此脚本。
 
-> 使用管理员权限的 PowerShell，运行以下命令。
-
 {% include copyable/copyable-highlight.html
+  shell="PowerShell"
   language="powershell"
   file="install.ps"
 %}
