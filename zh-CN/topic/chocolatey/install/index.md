@@ -4,18 +4,16 @@ layout: default
 localization: zh-CN
 ---
 
-{% include banner/not-ready.html %}
-
 {% include banner/chapter-reference.html 
   references=site.data.topic.chocolatey.articles.install.references
 %}
 
 # 安装 Chocolatey
 
-1. First, ensure that you are using an [administrative powershell](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
-2. Install with `powershell.exe`.
+1. 首先，确保使用管理员权限的 PowerShell。
+2. 使用 `powershell.exe` 安装此脚本。
 
-With administrative powershell, run the following command.
+> 使用管理员权限的 PowerShell，运行以下命令。
 
 {% include copyable/copyable-highlight.html
   language="powershell"
@@ -23,6 +21,6 @@ With administrative powershell, run the following command.
 %}
 
 {:start="3"}
-3. Paste the copied text into your shell and press Enter.
-4. Wait a few seconds for the command to complete.
-5. If you don't see any errors, you are ready to use Chocolatey! Type `choco` or `choco -?` now, or see Getting Started for usage instructions.
+1. 将命令粘贴在控制台中并按下回车。
+2. 等待命令运行完毕。
+3. 如果没有任何错误提示，安装就完成了！输入 `choco` 或者 `choco -?` 或者访问 [开始使用](https://docs.chocolatey.org/en-us/getting-started) 了解运行方式。
