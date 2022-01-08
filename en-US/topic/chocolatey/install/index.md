@@ -14,6 +14,7 @@ localization: en-US
 2. Install with `powershell.exe`.
 
 {% include copyable/copyable-highlight.html
+  admin=true
   shell="PowerShell"
   language="powershell"
   file="install.ps"

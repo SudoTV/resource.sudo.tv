@@ -14,6 +14,7 @@ localization: zh-CN
 2. 使用 `powershell.exe` 安装此脚本。
 
 {% include copyable/copyable-highlight.html
+  admin=true
   shell="PowerShell"
   language="powershell"
   file="install.ps"
