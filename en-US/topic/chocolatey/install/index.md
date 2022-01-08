@@ -12,4 +12,7 @@ localization: en-US
 
 # Install Chocolatey
 
-{% include copyable/copyable-highlight.html language="powershell" file="install.ps" %}
+{% include copyable/copyable-highlight.html
+  language="powershell"
+  file="install.ps"
+%}
