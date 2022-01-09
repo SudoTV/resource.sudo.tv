@@ -4,7 +4,7 @@ layout: base
 localization: zh-CN
 ---
 
-# SudoTV 资源
+# {{ page.title }}
 
 {% include navigation/core-link.html
     href="search"

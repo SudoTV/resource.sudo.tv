@@ -4,7 +4,7 @@ layout: base
 localization: en-US
 ---
 
-# All Topics
+# {{ page.title }}
 
 {% include article/topic-list.html 
   topics=site.data.topic

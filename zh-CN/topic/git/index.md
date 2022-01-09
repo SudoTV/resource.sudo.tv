@@ -6,7 +6,7 @@ localization: zh-CN
 
 {% include banner/not-ready.html %}
 
-# 有关 Git 的主题
+# {{ page.title }}
 
 {% include article/article-list.html 
   articles=site.data.topic.git.articles

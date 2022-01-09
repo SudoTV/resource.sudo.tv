@@ -4,7 +4,7 @@ layout: base
 localization: zh-CN
 ---
 
-# 包管理器
+# {{ page.title }}
 
 ## 对于 Windows 用户
 

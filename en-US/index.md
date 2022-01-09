@@ -4,7 +4,7 @@ layout: base
 localization: en-US
 ---
 
-# SudoTV Resources
+# {{ page.title }}
 
 {% include navigation/core-link.html
     href="search"

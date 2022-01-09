@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/not-ready.html %}
 
-# Node JS Topic
+# {{ page.title }}
 
 {% include article/article-list.html 
   articles=site.data.topic.node-js.articles

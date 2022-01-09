@@ -4,7 +4,7 @@ layout: base
 localization: en-US
 ---
 
-# Package Manager
+# {{ page.title }}
 
 ## For Windows Users
 

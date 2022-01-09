@@ -4,7 +4,7 @@ layout: base
 localization: en-US
 ---
 
-# Chocolatey Topic
+# {{ page.title }}
 
 Chocolatey is the recommended package manager software for Windows Users.
 

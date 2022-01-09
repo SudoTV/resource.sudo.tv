@@ -8,7 +8,7 @@ localization: en-US
   references=site.data.topic.chocolatey.articles.install.references
 %}
 
-# Install Chocolatey
+# {{ page.title }}
 
 1. First, ensure that you are using an [administrative powershell](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
 2. Install with `powershell.exe`.

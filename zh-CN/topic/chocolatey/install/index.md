@@ -8,7 +8,7 @@ localization: zh-CN
   references=site.data.topic.chocolatey.articles.install.references
 %}
 
-# 安装 Chocolatey
+# {{ page.title }}
 
 1. 首先，确保使用管理员权限的 PowerShell。
 2. 使用 `powershell.exe` 安装此脚本。

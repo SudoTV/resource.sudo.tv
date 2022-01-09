@@ -6,6 +6,6 @@ localization: en-US
 
 {% include banner/not-ready.html %}
 
-# Search
+# {{ page.title }}
 
 Coming Soon.

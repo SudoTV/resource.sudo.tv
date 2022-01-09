@@ -6,6 +6,6 @@ localization: zh-CN
 
 {% include banner/not-ready.html %}
 
-# 搜索
+# {{ page.title }}
 
 即将上线。

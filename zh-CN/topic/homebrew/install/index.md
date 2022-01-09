@@ -8,7 +8,7 @@ localization: zh-CN
   references=site.data.topic.homebrew.articles.install.references
 %}
 
-# 安装 Homebrew
+# {{ page.title }}
 
 1. 在控制台执行以下命令。
 

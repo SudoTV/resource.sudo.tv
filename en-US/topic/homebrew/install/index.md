@@ -8,7 +8,7 @@ localization: en-US
   references=site.data.topic.homebrew.articles.install.references
 %}
 
-# Install Homebrew
+# {{ page.title }}
 
 1. Run the following command with shell terminal.
 

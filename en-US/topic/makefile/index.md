@@ -6,7 +6,7 @@ localization: en-US
 
 {% include banner/not-ready.html %}
 
-# Makefile Topic
+# {{ page.title }}
 
 {% include article/article-list.html 
   articles=site.data.topic.makefile.articles
