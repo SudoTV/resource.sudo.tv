@@ -1,6 +1,6 @@
 ---
 title: Git Topic
-layout: default
+layout: base
 localization: en-US
 ---
 

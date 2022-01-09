@@ -1,6 +1,6 @@
 ---
 title: Chocolatey Topic
-layout: default
+layout: base
 localization: en-US
 ---
 

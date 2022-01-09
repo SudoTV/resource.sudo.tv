@@ -1,6 +1,6 @@
 ---
 title: 安装 Chocolatey
-layout: default
+layout: base
 localization: zh-CN
 ---
 

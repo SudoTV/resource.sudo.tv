@@ -1,6 +1,6 @@
 ---
 title: Install Node JS
-layout: default
+layout: base
 localization: en-US
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 包管理器
-layout: default
+layout: base
 localization: zh-CN
 ---
 

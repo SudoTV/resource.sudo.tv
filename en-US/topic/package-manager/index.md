@@ -1,6 +1,6 @@
 ---
 title: Package Manager
-layout: default
+layout: base
 localization: en-US
 ---
 

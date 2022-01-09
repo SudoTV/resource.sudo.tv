@@ -1,6 +1,6 @@
 ---
 title: Search
-layout: default
+layout: base
 localization: en-US
 ---
 

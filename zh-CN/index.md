@@ -1,6 +1,6 @@
 ---
 title: SudoTV 资源
-layout: default
+layout: base
 localization: zh-CN
 ---
 

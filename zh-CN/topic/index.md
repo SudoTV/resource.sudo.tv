@@ -1,6 +1,6 @@
 ---
 title: 全部主题
-layout: default
+layout: base
 localization: zh-CN
 ---
 

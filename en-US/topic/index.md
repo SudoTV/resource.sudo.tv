@@ -1,6 +1,6 @@
 ---
 title: All Topics
-layout: default
+layout: base
 localization: en-US
 ---
 

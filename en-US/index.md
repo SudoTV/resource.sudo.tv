@@ -1,6 +1,6 @@
 ---
 title: SudoTV Resources
-layout: default
+layout: base
 localization: en-US
 ---
 

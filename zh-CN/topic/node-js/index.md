@@ -1,6 +1,6 @@
 ---
 title: 有关 Node JS 的主题
-layout: default
+layout: base
 localization: zh-CN
 ---
 

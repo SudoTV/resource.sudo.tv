@@ -1,6 +1,6 @@
 ---
 title: Install Git
-layout: default
+layout: base
 localization: en-US
 ---
 

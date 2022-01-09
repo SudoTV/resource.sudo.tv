@@ -1,6 +1,6 @@
 ---
 title: Install Homebrew
-layout: default
+layout: base
 localization: en-US
 ---
 

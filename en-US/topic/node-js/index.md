@@ -1,6 +1,6 @@
 ---
 title: Node JS Topic
-layout: default
+layout: base
 localization: en-US
 ---
 

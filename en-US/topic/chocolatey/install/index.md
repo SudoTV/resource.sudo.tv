@@ -1,6 +1,6 @@
 ---
 title: Install Chocolatey
-layout: default
+layout: base
 localization: en-US
 ---
 
