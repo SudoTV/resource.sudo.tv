@@ -21,6 +21,6 @@ localization: en-US
 %}
 
 {:start="3"}
-1. Paste the copied text into your shell and press Enter.
-2. Wait a few seconds for the command to complete.
-3. If you don't see any errors, you are ready to use Chocolatey! Type `choco` or `choco -?` now, or see [Getting Started](https://docs.chocolatey.org/en-us/getting-started) for usage instructions.
+3. Paste the copied text into your shell and press Enter.
+4. Wait a few seconds for the command to complete.
+5. If you don't see any errors, you are ready to use Chocolatey! Type `choco` or `choco -?` now, or see [Getting Started](https://docs.chocolatey.org/en-us/getting-started) for usage instructions.
