@@ -1,0 +1,18 @@
+localization:
+  zh-CN:
+    name: GitHub
+    description: GitHub 是通过 Git 进行版本控制的软件源代码托管服务平台
+  en-US:
+    name: GitHub
+    description: GitHub is a software hosting service platform based on Git
+path: github
+articles:
+  register:
+    path: register
+    localization:
+      zh-CN:
+        title: 注册 GitHub 账号
+        description: 注册 GitHub 账号的方式
+      en-US:
+        title: Register GitHub Account
+        description: Procedure to register GitHub account
