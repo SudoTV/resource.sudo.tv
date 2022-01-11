@@ -4,7 +4,9 @@ layout: base
 localization: en-US
 ---
 
-# {{ page.title }}
+{% include article/topic-title.html
+  topic=site.data.topic.package-manager
+%}
 
 ## For Windows Users
 

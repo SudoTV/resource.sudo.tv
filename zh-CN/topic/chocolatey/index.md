@@ -4,9 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-# {{ page.title }}
-
-Chocolatey 是推荐给 Windows 用户的包管理器软件。
+{% include article/topic-title.html
+  topic=site.data.topic.chocolatey
+%}
 
 {% include article/article-list.html 
   articles=site.data.topic.chocolatey.articles

@@ -4,9 +4,9 @@ layout: base
 localization: en-US
 ---
 
-# {{ page.title }}
-
-Homebrew is the recommended package manager software for MacOS Users.
+{% include article/topic-title.html
+  topic=site.data.topic.homebrew
+%}
 
 {% include article/article-list.html 
   articles=site.data.topic.homebrew.articles

@@ -4,7 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-# {{ page.title }}
+{% include article/topic-title.html
+  topic=site.data.topic.package-manager
+%}
 
 ## 对于 Windows 用户
 

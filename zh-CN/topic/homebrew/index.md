@@ -4,9 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-# {{ page.title }}
-
-Homebrew 是推荐给 MacOS 用户的包管理器软件。
+{% include article/topic-title.html
+  topic=site.data.topic.homebrew
+%}
 
 {% include article/article-list.html 
   articles=site.data.topic.homebrew.articles

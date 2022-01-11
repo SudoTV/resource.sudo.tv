@@ -1,12 +1,14 @@
 ---
-title: 有关 Github 的主题
+title: 有关 GitHub 的主题
 layout: base
 localization: zh-CN
 ---
 
 {% include banner/not-ready.html %}
 
-# {{ page.title }}
+{% include article/topic-title.html
+  topic=site.data.topic.github
+%}
 
 {% include article/article-list.html 
   articles=site.data.topic.github.articles
