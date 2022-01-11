@@ -1,5 +1,5 @@
 ---
-title: 有关 Node JS 的主题
+title: 有关 NodeJS 的主题
 layout: base
 localization: zh-CN
 ---

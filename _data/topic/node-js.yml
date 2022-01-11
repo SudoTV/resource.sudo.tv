@@ -1,18 +1,18 @@
 localization:
   zh-CN:
-    name: Node JS
-    description: Node JS 是一个 JavaScript 运行环境
+    name: NodeJS
+    description: NodeJS 是一个 JavaScript 运行环境
   en-US:
-    name: Node JS
-    description: Node JS is a JavaScript runtime environment
+    name: NodeJS
+    description: NodeJS is a JavaScript runtime environment
 path: node-js
 articles:
   install:
     path: install
     localization:
       zh-CN:
-        title: 安装 Node JS
-        description: 安装 Node JS 的方式
+        title: 安装 NodeJS
+        description: 安装 NodeJS 的方式
       en-US:
-        title: Install Node JS
-        description: Procedure to install Node JS
+        title: Install NodeJS
+        description: Procedure to install NodeJS

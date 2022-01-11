@@ -1,5 +1,5 @@
 ---
-title: 安装 Node JS
+title: 安装 NodeJS
 layout: base
 localization: zh-CN
 ---
