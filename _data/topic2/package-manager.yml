@@ -1,8 +1,0 @@
-localization:
-  zh-CN:
-    name: 包管理器
-    description: 包管理软件是为用户提供软件包管理和升级的解决方案
-  en-US:
-    name: Package Manager
-    description: Package Manager is a solution for managing software packages and upgrades
-path: package-manager
