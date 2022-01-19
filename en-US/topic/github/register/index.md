@@ -4,6 +4,6 @@ layout: base
 localization: en-US
 ---
 
-{% include banner/not-ready.html %}
-
 # {{ page.title }}
+
+Visit [Join GitHub](https://github.com/signup) website to start register your GitHub account.
