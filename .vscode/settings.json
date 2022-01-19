@@ -6,6 +6,8 @@
         "endcapture",
         "endcase",
         "endfor",
+        "forloop",
+        "ifeq",
         "PCXPY",
         "pnpm",
         "sublicensable",
