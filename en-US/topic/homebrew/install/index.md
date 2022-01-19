@@ -4,11 +4,9 @@ layout: base
 localization: en-US
 ---
 
-{% include banner/chapter-reference.html 
-  references=site.data.topic.homebrew.articles.install.references
+{% include article/article-title.html
+    article=site.data.topic.homebrew.articles.install
 %}
-
-# {{ page.title }}
 
 1. Run the following command with shell terminal.
 

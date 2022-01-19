@@ -4,8 +4,8 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/dependencies/resource.html
-    dependency0=site.data.topic.package-manager
+{% include article/article-title.html
+    article=site.data.topic.git.articles.install
 %}
 
 # {{ page.title }}

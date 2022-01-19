@@ -4,11 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/dependencies/resource.html
-    dependency0=site.data.topic.package-manager
+{% include article/article-title.html
+    article=site.data.topic.node-js.articles.install
 %}
-
-# {{ page.title }}
 
 安装 NodeJS 的最佳方式是使用一个包管理器来先安装 `Node Version Manager (NVM)`。点击上面的链接来获取更多关于如何准备一个包管理器的信息。
 

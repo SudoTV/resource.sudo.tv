@@ -4,11 +4,9 @@ layout: base
 localization: en-US
 ---
 
-{% include banner/dependencies/resource.html
-    dependency0=site.data.topic.package-manager
+{% include article/article-title.html
+    article=site.data.topic.node-js.articles.install
 %}
-
-# {{ page.title }}
 
 The best way to install NodeJS is to install `Node Version Manager (NVM)` with a package manager. Click on link on top of this page to get more information about how to get a package manager prepared.
 

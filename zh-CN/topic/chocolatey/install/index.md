@@ -4,11 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/chapter-reference.html 
-  references=site.data.topic.chocolatey.articles.install.references
+{% include article/article-title.html
+    article=site.data.topic.chocolatey.articles.install
 %}
-
-# {{ page.title }}
 
 1. 首先，确保使用管理员权限的 PowerShell。
 2. 使用 `powershell.exe` 安装此脚本。

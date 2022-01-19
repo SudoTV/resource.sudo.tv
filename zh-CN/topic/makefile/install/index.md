@@ -4,11 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/dependencies/resource.html
-    dependency0=site.data.topic.package-manager
+{% include article/article-title.html
+    article=site.data.topic.makefile.articles.install
 %}
-
-# {{ page.title }}
 
 ### 在 Windows 上安装 Makefile
 

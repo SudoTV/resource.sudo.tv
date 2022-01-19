@@ -4,11 +4,9 @@ layout: base
 localization: en-US
 ---
 
-{% include banner/chapter-reference.html 
-  references=site.data.topic.chocolatey.articles.install.references
+{% include article/article-title.html
+    article=site.data.topic.chocolatey.articles.install
 %}
-
-# {{ page.title }}
 
 1. First, ensure that you are using an [administrative powershell](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
 2. Install with `powershell.exe`.

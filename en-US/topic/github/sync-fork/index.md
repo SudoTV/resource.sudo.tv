@@ -4,7 +4,9 @@ layout: base
 localization: en-US
 ---
 
-# {{ page.title }}
+{% include article/article-title.html
+    article=site.data.topic.github.articles.sync-fork
+%}
 
 ## Syncing a fork from the web UI
 

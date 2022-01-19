@@ -4,11 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/chapter-reference.html 
-  references=site.data.topic.homebrew.articles.install.references
+{% include article/article-title.html
+    article=site.data.topic.homebrew.articles.install
 %}
-
-# {{ page.title }}
 
 1. 在控制台执行以下命令。
 

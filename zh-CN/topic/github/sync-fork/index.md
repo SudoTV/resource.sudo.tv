@@ -4,7 +4,9 @@ layout: base
 localization: zh-CN
 ---
 
-# {{ page.title }}
+{% include article/article-title.html
+    article=site.data.topic.github.articles.sync-fork
+%}
 
 ## 使用网页同步复刻仓库
 
