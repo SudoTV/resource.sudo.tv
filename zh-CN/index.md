@@ -6,6 +6,8 @@ localization: zh-CN
 
 # {{ page.title }}
 
+## 主题
+
 {% include navigation/core-link.html
     href="search"
     title="搜索"

@@ -6,6 +6,8 @@ localization: en-US
 
 # {{ page.title }}
 
+## Topics
+
 {% include navigation/core-link.html
     href="search"
     title="Search"
