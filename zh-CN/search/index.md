@@ -4,8 +4,6 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/not-ready.html %}
-
 # {{ page.title }}
 
-即将上线。
+{% include resource/search.html %}
