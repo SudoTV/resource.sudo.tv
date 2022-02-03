@@ -8,6 +8,7 @@
         "endfor",
         "forloop",
         "ifeq",
+        "jsonify",
         "PCXPY",
         "pnpm",
         "sublicensable",
